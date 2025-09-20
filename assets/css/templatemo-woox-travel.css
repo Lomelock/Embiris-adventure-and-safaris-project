@@ -771,7 +771,7 @@ Banner Style
   line-height: 58px;
   border: 1px solid #22b3c1;
   border-radius: 50%;
-  float: left;
+  float:left;
   margin-right: 20px;
 }
 #section-1 .more-info h4 {
@@ -824,19 +824,19 @@ Banner Style
   transition: 0.3s;
 }
 #section-1 .content-slider .slider #top-banner-1 {
-  background: url('../images/banner-01.jpg') no-repeat center center;
+  background: url('assets/images/Embris logo.png') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-2 {
-  background: url('../images/banner-02.jpg') no-repeat center center;
+  background: url('assets/images/pexels-alex-ning-523843601-33650626.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-3 {
-  background: url('../images/banner-03.jpg') no-repeat center center;
+  background: url('assets/images/pexels-jess-vide-5007331.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-4 {
-  background: url('../images/banner-04.jpg') no-repeat center center;
+  background: url('assets/images/pexels-jusper-mwangi-832386-9539030.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider nav {
